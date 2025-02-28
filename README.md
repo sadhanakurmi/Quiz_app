@@ -1,4 +1,5 @@
  Quiz_app
+
 A simple and interactive quiz application built using HTML,CSS,and javaScript with cool animations.
 
 # Features
