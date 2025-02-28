@@ -10,7 +10,7 @@ Smooth animations for better user experience
 
 # Installation
 1. Clone the repository:
-2. git clone https://github.com/your-username/Quiz_app.git
+2. git clone https://github.com/sadhanakurmi/Quiz_app.git
 3. Open the index.html file in a web browser.
 
 4. # Technologies Used
